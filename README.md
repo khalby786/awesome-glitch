@@ -18,8 +18,8 @@ When opening a pull request, please make sure that the pull request has a title 
 
 ---
 
-| Name | Description | Source Code | License |
-|------|-------------| ----------- | ------- |
-| [pastedown](https://pastedown.glitch.me) | pastedown is a markdown pastebin written in php designed to replace other pastebins | [GitHub](https://github.com/aboutDavid/pastedown) | GPL v3.0 |
+| Name | Description | Source Code | License | Author |
+|------|-------------| ----------- | ------- | ------ |
+| [pastedown](https://pastedown.glitch.me) | pastedown is a markdown pastebin written in php designed to replace other pastebins | [GitHub](https://github.com/aboutDavid/pastedown) | GPL v3.0 | aboutDavid |
 
 

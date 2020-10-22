@@ -11,3 +11,5 @@ Anyways, you can edit this list with things by making a pull request with the th
 - Name: Description
 
 - [Halfmoon](https://www.gethalfmoon.com/): Halfmoon is a responsive front-end framework with a lot of useful and interesting qualities to help you build websites. It comes with a built-in dark mode, which is one of its most important and defining features.
+
+- [discord.js](https://discord.js.com): A NodeJS package to interact with the Discord API and create Discord bots.

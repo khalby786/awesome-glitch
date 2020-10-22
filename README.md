@@ -2,7 +2,7 @@
 
 Based on [Glitch's Wall of Fame (Glitch in the wild)](https://support.glitch.com/t/glitchs-wall-of-fame-glitch-in-the-wild/29536) and [Awesome](https://awesome.re/).
 
-Anyways, you can edit this list with things by making a pull request with the things you find (such as awesome css frameworks, awesome npm packges,etc) that you might use/find in Glitch projects.
+This is a curated list of awesome and useful Glitch projects!
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 

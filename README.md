@@ -20,6 +20,6 @@ When opening a pull request, please make sure that the pull request has a title 
 
 | Name | Description | Source Code | License |
 |------|-------------| ----------- | ------- |
-| [Halfmoon](https://www.gethalfmoon.com/) | Halfmoon is a responsive front-end framework with a lot of useful and interesting qualities to help you build websites. It comes with a built-in dark mode, which is one of its most important and defining features. | [GitHub](https://github.com/halfmoonui/halfmoon) | MIT
+| [Halfmoon](https://www.gethalfmoon.com/) | Halfmoon is a responsive front-end framework with a lot of useful and interesting qualities to help you build websites. It comes with a built-in dark mode, which is one of its most important and defining features. | [GitHub](https://github.com/halfmoonui/halfmoon) | MIT |
 
 

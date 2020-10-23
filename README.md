@@ -10,15 +10,9 @@ Based on [Glitch's Wall of Fame (Glitch in the wild)](https://support.glitch.com
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-When opening a pull request, please make sure that the pull request has a title in the format `Add Name of List`.
-- ✅ `Add Swift`
-- ✅ `Add Software Architecture`
-- ❌ `Update readme.md`
-- ❌ `Add Awesome Swift`
-- ❌ `Add swift`
-- ❌ `add Swift`
-- ❌ `Adding Swift`
-- ❌ `Added Swift`
+## Contribute
+
+Contributions are welcome! Please read the [contribution guidelines](contributing.md) first!
 
 ---
 

@@ -17,7 +17,7 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
 <details>
   <summary>Rules</summary>
   
-- Please only add projects, not edit the text (unless you get permission)
+- Please only add Glitch projects!
 
 - They must follow the Glitch ToS (meaning no pinging, proxies, etc.)
 </details>

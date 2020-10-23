@@ -25,7 +25,7 @@ When opening a pull request, please make sure that the pull request has a title 
 | Name | Description | Source Code |
 |------|-------------|-------------|
 | [Texa](https://deno.land/x/texa) | A Deno web-framework inspired by [Oak](https://deno.land/x/oak) and [Express](https://npmjs.com/package/express), with built-in support for WebSockets, middleware and routing. | [GitHub](https://github.com/ihack2712/texa), [deno.land](https://deno.land/x/texa) |
-| [pastedown](https://pastedown.glitch.me) | pastedown is a markdown pastebin written in php designed to replace other pastebins | [GitHub](https://github.com/aboutDavid/pastedown) |
-|[GlitchyPastePen](https://glitchypastepen.glitch.me/)| Create simple front-end projects, mainly with HTML, CSS and JS using an online code editor and instantly host it. | [GitHub](https://github.com/khalby786/GlitchyPastePen.v2)
+| [pastedown](https://pastedown.glitch.me) | pastedown is a markdown pastebin written in PHP designed to replace other pastebins. | [GitHub](https://github.com/aboutDavid/pastedown) |
+|[GlitchyPastePen](https://glitchypastepen.glitch.me/)| Create simple front-end projects, mainly with HTML, CSS and JS using an online code editor and instantly host it. | [GitHub](https://github.com/khalby786/GlitchyPastePen)
 
 

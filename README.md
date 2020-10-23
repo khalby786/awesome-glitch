@@ -14,6 +14,17 @@ Based on [Glitch's Wall of Fame (Glitch in the wild)](https://support.glitch.com
 
 Contributions are welcome! Please read the [contribution guidelines](contributing.md) first!
 
+[details="Rules"]
+- Please only add projects, not edit the text (unless you get permission)
+- They must follow the Glitch ToS (meaning no pinging, proxies, etc.)
+[/details]
+
+[details="Example of a submission"]
+```
+|[Title](Link) | Description | [GitHub](https://github.com/user/repo), [Glitch](https://glitch.com/edit/#!/project_name) |
+```
+[/details]
+
 ---
 
 | Name | Description | Source Code |

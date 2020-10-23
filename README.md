@@ -26,7 +26,7 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
   <summary>Example of a submission</summary>
   
 ```
-|[Title](Link) | Description | [GitHub](https://github.com/user/repo), [Glitch](https://glitch.com/edit/#!/project_name) |
+| [Title](Link) | Description | [GitHub](https://github.com/user/repo), [Glitch](https://glitch.com/edit/#!/project_name) |
 ```
 
 </details>

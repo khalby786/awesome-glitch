@@ -20,8 +20,8 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
 |------|-------------|-------------|
 | [Texa](https://deno.land/x/texa) | A Deno web-framework inspired by [Oak](https://deno.land/x/oak) and [Express](https://npmjs.com/package/express), with built-in support for WebSockets, middleware and routing. | [GitHub](https://github.com/ihack2712/texa), [deno.land](https://deno.land/x/texa) |
 | [pastedown](https://pastedown.glitch.me) | pastedown is a markdown pastebin written in PHP designed to replace other pastebins. | [GitHub](https://github.com/aboutDavid/pastedown) |
-|[GlitchyPastePen](https://glitchypastepen.glitch.me/)| Create simple front-end projects, mainly with HTML, CSS and JS using an online code editor and instantly host it. | [GitHub](https://github.com/khalby786/GlitchyPastePen) |
+|[GlitchyPastePen](https://glitchypastepen.glitch.me/)| Create simple front-end projects, mainly with HTML, CSS and JS using an online code editor and instantly host it. | [GitHub](https://github.com/khalby786/GlitchyPastePen), [Glitch](https://glitch.com/edit/#!/glitchypastepen) |
 | [Learn Code](https://learn-code.me) |  	Make projects on a beautiful site with an online code editor with guides and SVG icons (icons WIP). | [GitHub](https://github.com/code-alt/learn-code), [Glitch](https://glitch.com/edit/#!/learn-code-files) |
-| [MarkMe!](https://markme.glitch.me) | A simple, lightweight and beautiful Markdown editor and viewer. | [GitHub](https://github.com/khalby786/markme) |
+| [MarkMe!](https://markme.glitch.me) | A simple, lightweight and beautiful Markdown editor and viewer. | [GitHub](https://github.com/khalby786/markme), [Glitch](https://glitch.com/edit/#!/markme) |
 
 

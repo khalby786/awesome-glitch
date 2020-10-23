@@ -1,6 +1,6 @@
 ### This awesome list is under construction! ⚠️
 
-
+![Awesome Glitch](media/awesome-glitch.png)
 
 # Awesome Glitch
 
